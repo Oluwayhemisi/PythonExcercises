@@ -1,0 +1,1 @@
+people = ["john","paul","george","ringo"]
